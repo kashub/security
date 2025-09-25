@@ -1,0 +1,24 @@
+# A custom list of user agents I do not wish to visit my servers for more or less serious reasons
+# Used by custom crowdsec scenario
+\bAhrefsBot\b
+\bApache-HttpClient\b
+\bApplebot\b
+\bBUbiNG\b
+\bBytespider\b
+\bClaudeBot\b
+\bDotBot\b
+\bfasthttp\b
+\bHeadlessChrome\b
+\bKeydrop\b
+\bl9explore\b
+\bl9tcpid\b
+\blibredtail\b
+\bNetcraftSurveyAgent\b
+\bokhttp\b
+\bopensiteexplorer\b
+\bpython-requests\b
+\bSeekportBot\b
+\bSogou\b
+\bTinEye-bot-live\b
+\bwpbot\b
+
