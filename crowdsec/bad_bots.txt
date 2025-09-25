@@ -13,6 +13,7 @@
 \bCMS-Checker\b
 \bDotBot\b
 \bfasthttp\b
+\bFlyriverbot\b
 \bGenomeCrawlerd\b
 \bGo-http-client\b
 \bGRequests\b
