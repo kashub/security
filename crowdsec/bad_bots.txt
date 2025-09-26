@@ -4,7 +4,6 @@
 \bAliyunSecBot\b
 \baiohttp\b
 \bApache-HttpClient\b
-\bApplebot\b
 \bBaiduspider\b
 \bbitdiscovery\b
 \bBUbiNG\b
