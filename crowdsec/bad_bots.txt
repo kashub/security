@@ -32,6 +32,7 @@
 \bSeekportBot\b
 \bSogou\b
 \bTinEye-bot-live\b
+\btutanota\b
 \bUGAResearchAgent\b
 \bwpbot\b
 \bzgrab\b
