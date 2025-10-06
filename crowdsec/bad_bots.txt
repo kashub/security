@@ -28,6 +28,7 @@
 \bokhttp\b
 \bopensiteexplorer\b
 \bPandalytics\b
+\bpython-httpx\b
 \bpython-requests\b
 \bSeekportBot\b
 \bSogou\b
