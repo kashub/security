@@ -10,11 +10,13 @@
 \bBytespider\b
 \bClaudeBot\b
 \bCMS-Checker\b
+\bcurl\b
 \bDotBot\b
 \bfasthttp\b
 \bFlyriverbot\b
 \bGenomeCrawlerd\b
 \bGo-http-client\b
+\bGrammarly\b
 \bGRequests\b
 \bHeadlessChrome\b
 \bivre-masscan\b
