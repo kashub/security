@@ -2,6 +2,7 @@
 # Used by custom crowdsec scenario
 \bAhrefsBot\b
 \bAliyunSecBot\b
+\bALittle\b
 \baiohttp\b
 \bApache-HttpClient\b
 \bBaiduspider\b
