@@ -6,6 +6,7 @@
 \baiohttp\b
 \bApache-HttpClient\b
 \bBaiduspider\b
+\bbinance\b
 \bbitdiscovery\b
 \bBUbiNG\b
 \bBytespider\b
