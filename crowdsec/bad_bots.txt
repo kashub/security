@@ -9,6 +9,7 @@
 \bbitdiscovery\b
 \bBUbiNG\b
 \bBytespider\b
+\bCCBot\b
 \bClaudeBot\b
 \bCMS-Checker\b
 \bcurl\b
