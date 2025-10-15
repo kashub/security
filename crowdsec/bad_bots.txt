@@ -40,6 +40,5 @@
 \bTinEye-bot-live\b
 \btutanota\b
 \bUGAResearchAgent\b
-\bwpbot\b
 \bzgrab\b
 
