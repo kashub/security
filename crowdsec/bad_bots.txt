@@ -21,7 +21,6 @@
 \bGo-http-client\b
 \bGrammarly\b
 \bGRequests\b
-\bHeadlessChrome\b
 \bivre-masscan\b
 \bJugendschutzprogramm\b
 \bKeydrop\b
