@@ -41,5 +41,6 @@
 \bTinEye-bot-live\b
 \btutanota\b
 \bUGAResearchAgent\b
+\bValimail\b
 \bzgrab\b
 
