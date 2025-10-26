@@ -12,7 +12,6 @@
 \bBytespider\b
 \bcc_bot\b
 \bCCBot\b
-\bClaudeBot\b
 \bCMS-Checker\b
 \bcurl\b
 \bDotBot\b
