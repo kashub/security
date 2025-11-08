@@ -26,6 +26,7 @@
 \bKeydrop\b
 \bl9explore\b
 \bl9tcpid\b
+\bl9scan\b
 \blibredtail\b
 \bLynx\b
 \bNetcraftSurveyAgent\b
