@@ -15,6 +15,7 @@
 \bCMS-Checker\b
 \bcurl\b
 \bDotBot\b
+\benv-checker\b
 \bfasthttp\b
 \bFlyriverbot\b
 \bGenomeCrawlerd\b
