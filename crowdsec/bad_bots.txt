@@ -37,6 +37,7 @@
 \bpython-httpx\b
 \bpython-requests\b
 \bPython-urllib\b
+\bRecordedFuture\b
 \bSeekportBot\b
 \bSogou\b
 \bTinEye-bot-live\b
