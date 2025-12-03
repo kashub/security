@@ -39,6 +39,7 @@
 \bPython-urllib\b
 \bRecordedFuture\b
 \bSeekportBot\b
+\bSERankingBacklinksBot\b
 \bSogou\b
 \bTinEye-bot-live\b
 \btutanota\b
