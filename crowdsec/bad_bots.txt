@@ -18,6 +18,7 @@
 \benv-checker\b
 \bfasthttp\b
 \bFlyriverbot\b
+\bFreePBX-Scanner\b
 \bGenomeCrawlerd\b
 \bGo-http-client\b
 \bGrammarly\b
