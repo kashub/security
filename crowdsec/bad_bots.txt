@@ -44,6 +44,7 @@
 \bSERankingBacklinksBot\b
 \bSMTBot\b
 \bSogou\b
+\bsqalix-multi-worker\b
 \bTinEye-bot-live\b
 \btutanota\b
 \bUGAResearchAgent\b
