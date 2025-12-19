@@ -14,6 +14,7 @@
 \bcc_bot\b
 \bCCBot\b
 \bCMS-Checker\b
+\bCMS Detector\b
 \bcurl\b
 \bDotBot\b
 \benv-checker\b
