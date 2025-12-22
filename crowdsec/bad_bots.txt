@@ -19,6 +19,7 @@
 \bDotBot\b
 \benv-checker\b
 \bfasthttp\b
+\bfirefoxversion\b
 \bFlyriverbot\b
 \bFreePBX-Scanner\b
 \bGenomeCrawlerd\b
