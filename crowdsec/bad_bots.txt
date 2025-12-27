@@ -5,6 +5,7 @@
 \bALittle\b
 \baiohttp\b
 \bApache-HttpClient\b
+\bAssetnote\b
 \bBaiduspider\b
 \bBDVBot\b
 \bbinance\b
