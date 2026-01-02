@@ -49,6 +49,7 @@
 \bSMTBot\b
 \bSogou\b
 \bsqalix-multi-worker\b
+\bThreatView\b
 \bTinEye-bot-live\b
 \btutanota\b
 \bUGAResearchAgent\b
