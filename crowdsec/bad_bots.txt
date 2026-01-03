@@ -55,6 +55,7 @@
 \bUGAResearchAgent\b
 \bValimail\b
 \bxfa1\b
+\bZend\b
 \bzgrab\b
 \bZoominfoBot\b
 
