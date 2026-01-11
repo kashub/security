@@ -36,6 +36,7 @@
 \blibredtail\b
 \bLynx\b
 \bmasscan\b
+\bMediatoolkitbot\b
 \bNetcraftSurveyAgent\b
 \bokhttp\b
 \bopensiteexplorer\b
