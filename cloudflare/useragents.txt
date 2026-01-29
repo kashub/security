@@ -47,7 +47,8 @@ lower(http.user_agent) contains "meta-externalagent" or
 lower(http.user_agent) contains "mj12bot" or 
 lower(http.user_agent) contains "netcraftsurveyagent" or 
 lower(http.user_agent) contains "okhttp" or 
-lower(http.user_agent) contains "opensiteexplorer" or 
+lower(http.user_agent) contains "opensiteexplorer" or
+lower(http.user_agent) contains "palo alto" or
 lower(http.user_agent) contains "pandalytics" or 
 lower(http.user_agent) contains "python-httpx" or 
 lower(http.user_agent) contains "python-requests" or 
