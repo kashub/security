@@ -18,7 +18,8 @@ lower(http.user_agent) contains "ccbot" or
 lower(http.user_agent) contains "claudebot" or 
 lower(http.user_agent) contains "cms detector" or 
 lower(http.user_agent) contains "cms-checker" or 
-lower(http.user_agent) contains "curl" or 
+lower(http.user_agent) contains "curl" or
+lower(http.user_agent) contains "dataforseobot" or 
 lower(http.user_agent) contains "dotbot" or 
 lower(http.user_agent) contains "env-checker" or 
 lower(http.user_agent) contains "ev-crawler" or 
