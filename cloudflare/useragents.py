@@ -9,6 +9,7 @@ lower(http.user_agent) contains "backlinksextendedbot" or
 lower(http.user_agent) contains "baiduspider" or 
 lower(http.user_agent) contains "barkrowler" or 
 lower(http.user_agent) contains "bdvbot" or 
+lower(http.user_agent) contains "beanserver" or 
 lower(http.user_agent) contains "binance" or 
 lower(http.user_agent) contains "bitdiscovery" or 
 lower(http.user_agent) contains "bubing" or 
