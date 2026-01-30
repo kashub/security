@@ -24,6 +24,7 @@ lower(http.user_agent) contains "dataforseobot" or
 lower(http.user_agent) contains "dotbot" or 
 lower(http.user_agent) contains "env-checker" or 
 lower(http.user_agent) contains "ev-crawler" or 
+lower(http.user_agent) contains "expo-research-bot" or 
 lower(http.user_agent) contains "fasthttp" or 
 lower(http.user_agent) contains "fastscan" or 
 lower(http.user_agent) contains "firefoxversion" or 
