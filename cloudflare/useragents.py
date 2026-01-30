@@ -57,6 +57,7 @@ lower(http.user_agent) contains "python-requests" or
 lower(http.user_agent) contains "python-urllib" or 
 lower(http.user_agent) contains "recordedfuture" or 
 lower(http.user_agent) contains "scrapy" or 
+lower(http.user_agent) contains "securityheaders" or 
 lower(http.user_agent) contains "seekportbot" or 
 lower(http.user_agent) contains "semrush" or 
 lower(http.user_agent) contains "serankingbacklinksbot" or 
