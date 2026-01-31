@@ -74,6 +74,7 @@ lower(http.user_agent) contains "tineye-bot-live" or
 lower(http.user_agent) contains "tutanota" or 
 lower(http.user_agent) contains "ugaresearchagent" or 
 lower(http.user_agent) contains "valimail" or 
+lower(http.user_agent) contains "wpbot" or 
 lower(http.user_agent) contains "xfa1" or 
 lower(http.user_agent) contains "zend" or 
 lower(http.user_agent) contains "zgrab" or 
