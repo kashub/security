@@ -16,6 +16,7 @@ lower(http.user_agent) contains "bubing" or
 lower(http.user_agent) contains "bytespider" or 
 lower(http.user_agent) contains "cc_bot" or 
 lower(http.user_agent) contains "ccbot" or 
+lower(http.user_agent) contains "censys" or 
 lower(http.user_agent) contains "claudebot" or 
 lower(http.user_agent) contains "cms detector" or 
 lower(http.user_agent) contains "cms-checker" or 
