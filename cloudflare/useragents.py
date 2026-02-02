@@ -39,6 +39,7 @@ lower(http.user_agent) contains "grequests" or
 lower(http.user_agent) contains "ivre-masscan" or 
 lower(http.user_agent) contains "jugendschutzprogramm" or 
 lower(http.user_agent) contains "keydrop" or 
+lower(http.user_agent) contains "ktor-client" or 
 lower(http.user_agent) contains "l9explore" or 
 lower(http.user_agent) contains "l9scan" or 
 lower(http.user_agent) contains "l9tcpid" or 
