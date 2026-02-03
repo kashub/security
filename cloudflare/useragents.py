@@ -5,6 +5,7 @@ lower(http.user_agent) contains "aiohttp" or
 lower(http.user_agent) contains "amazonbot" or 
 lower(http.user_agent) contains "apache-httpclient" or 
 lower(http.user_agent) contains "assetnote" or 
+lower(http.user_agent) contains "awariobot" or 
 lower(http.user_agent) contains "backlinksextendedbot" or 
 lower(http.user_agent) contains "baiduspider" or 
 lower(http.user_agent) contains "barkrowler" or 
