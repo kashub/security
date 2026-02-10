@@ -14,6 +14,7 @@ lower(http.user_agent) contains "beanserver" or
 lower(http.user_agent) contains "binance" or 
 lower(http.user_agent) contains "bitdiscovery" or 
 lower(http.user_agent) contains "bubing" or 
+lower(http.user_agent) contains "bugbounty" or 
 lower(http.user_agent) contains "bytespider" or 
 lower(http.user_agent) contains "cc_bot" or 
 lower(http.user_agent) contains "ccbot" or 
