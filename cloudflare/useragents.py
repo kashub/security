@@ -52,6 +52,7 @@ lower(http.user_agent) contains "mediatoolkitbot" or
 lower(http.user_agent) contains "meta-externalagent" or 
 lower(http.user_agent) contains "mj12bot" or 
 lower(http.user_agent) contains "netcraftsurveyagent" or 
+lower(http.user_agent) contains "odin" or 
 lower(http.user_agent) contains "okhttp" or 
 lower(http.user_agent) contains "opensiteexplorer" or
 lower(http.user_agent) contains "palo alto" or
